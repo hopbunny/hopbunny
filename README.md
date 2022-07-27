@@ -1,9 +1,11 @@
 ## Opaaa , bão ? Eu sou Alisson Luis, estudante de programação e tecnologia!
-<div align="center">
+<div align="center">  
   <a href="https://github.com/hopbunny">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hopbunny&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hopbunny&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hopbunny&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hopbunny&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
+  </a>
 </div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="hop-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="hop-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
