@@ -7,12 +7,13 @@
   </a>
 </div>
 
-<div style="display: inline_block"><br>
-  
-<p align="center">  
-  <g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">💻
-  </g-emoji> ESTUDANTE
-  <p align="center">
+## <div style="display: inline_block"><br>
+  <p align="center">  
+  <g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">📚
+  </g-emoji> 𝙏𝙀𝙉𝙃𝙊 𝘾𝙊𝙉𝙃𝙀𝘾𝙄𝙈𝙀𝙉𝙏𝙊:
+  <p align="center"> 
+</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="hop-csharp" style="max-width: 100%;" src="https://img.shields.io/badge/CSHARP-6A5ACD?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img align="center" alt="hop-MySQL" style="max-width: 100%;" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
@@ -25,9 +26,9 @@
  ##
 
 <div>
-  <a href="https://www.linkedin.com/in/alisson-luis-86b992228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/alisson.luis.11" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:alissonluis2009@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/alisson-luis-86b992228/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/alisson.luis.11" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:alissonluis2009@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
   ![Snake animation](https://github.com/hopbunny/hopbunny/blob/output/github-contribution-grid-snake.svg)
   
