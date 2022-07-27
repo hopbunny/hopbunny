@@ -15,12 +15,12 @@
   <p align="center">  
 <br>
  
-<div style="display: inline_block" style max-width: 100%"><br>
-  <img align="center" alt="hop-csharp" src="https://img.shields.io/badge/C%23-6A5ACD?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img align="center" alt="hop-MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center" alt="hop-JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img align="center" alt="hop-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="hop-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<div style="display: inline_block"><br>
+  <img align="center" alt="hop-csharp" style="max-width: 100%;" src="https://img.shields.io/badge/C%23-6A5ACD?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img align="center" alt="hop-MySQL" style="max-width: 100%;" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="hop-JS" style="max-width: 100%;" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img align="center" alt="hop-HTML" style="max-width: 100%;" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="hop-CSS" style="max-width: 100%;" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="right" alt="hop-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/986675082170630164/991055467184791562/Catatau_Boo-BooBear.png">
 </div>
 
