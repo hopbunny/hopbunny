@@ -11,7 +11,7 @@
   
 <p align="center">  
   <g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">💻
-  </g-emoji> ESTUDANDO:
+  </g-emoji> ESTUDANTE
   <p align="center">  
 <br>
  
@@ -22,10 +22,6 @@
   <img align="center" alt="hop-HTML" style="max-width: 100%;" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="hop-CSS" style="max-width: 100%;" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="right" alt="hop-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/986675082170630164/991055467184791562/Catatau_Boo-BooBear.png">
-</div>
-
-  
-<img align="right" alt="hop-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/986675082170630164/991055467184791562/Catatau_Boo-BooBear.png">
 </div>
 
  ##
