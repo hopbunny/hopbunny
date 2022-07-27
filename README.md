@@ -10,7 +10,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="hop-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="hop-MySQL" height="30" width="40" src="[https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" style="max-width: 100%;)">
-  <img align="center" alt="hop-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="hop-JS" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E)">
   <img align="center" alt="hop-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="hop-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="hop-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/986675082170630164/991055467184791562/Catatau_Boo-BooBear.png">
