@@ -3,22 +3,18 @@
   <a target="_blank" rel="noopener noreferrer">
 </div>
 
-
 <div align="center">
   <a href="https://github.com/hopbunny">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hopbunny&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hopbunny&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hopbunny&layout=compact&langs_count=8&theme=dracula"/>
 </div>
-
 
 ## About me
 <div>
    <h1></h1>
 </div>
 
-
 <img align="right" alt="hop-pic" height="300" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/986675082170630164/991055467184791562/Catatau_Boo-BooBear.png">
-
 
 ### Social Network
 <div>
@@ -26,7 +22,6 @@
   <a href="https://instagram.com/alisson.luis.11" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:alissonluis2009@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a
 </div>
-
 
 ### Programming Languages
 <div>
@@ -36,14 +31,12 @@
   <img align="center" alt="hop-CSS" style="max-width: 100%;" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
 
-
 ### Databases
 <div>
   <img align="center" alt="hop-MySQL" style="max-width: 100%;" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="hop-MariaDB" style="max-width: 100%;" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
   <img align="center" alt="hop-MongoDB" style="max-width: 100%;" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
-
 
 ### Tools / Systems
 <div>
@@ -52,17 +45,12 @@
   <img align="center" alt="hop-Windows" style="max-width: 100%;" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </div>
 
-
 ##
-
 
 <div align="center">
 
-
   ![Snake animation](https://github.com/hopbunny/hopbunny/blob/output/github-contribution-grid-snake.svg)
   
-  
 </div>
-
 
 ##
