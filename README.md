@@ -2,7 +2,6 @@
   <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="100px" alt="welcome">
 </p>
 
-### 📊 GitHub Stats
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hopbunny&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="github stats"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hopbunny&layout=compact&langs_count=8&theme=dracula" alt="top languages"/>
@@ -39,9 +38,7 @@ I enjoy building practical projects to apply what I learn and keep improving as 
 
 ---
 
-<div align="center">
-  
-  ![GitHub Snake Light](https://raw.githubusercontent.com/hopbunny/hopbunny/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-  ![GitHub Snake Dark](https://raw.githubusercontent.com/hopbunny/hopbunny/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-  
-</div>
+### 📈 GitHub Activity
+<p align="center">
+  <img src="https://ghchart.rshah.org/hopbunny" alt="Alisson's Github chart" />
+</p>
