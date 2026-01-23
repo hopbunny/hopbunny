@@ -1,8 +1,10 @@
-<h2 align="center">Hi, I'm Alisson Luis 👋</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00ADD8&center=true&vCenter=true&width=700&lines=Backend+Developer+in+Training;Systems+Analysis+and+Development+Student;Go+(Golang)+Enthusiast" />
+</p>
 
 <p align="center">
   <em>
-    Systems Analysis and Development student • Junior Backend Developer • Go (Golang)
+    Systems Analysis and Development student • Junior Backend Developer • Continuous learner
   </em>
 </p>
 
